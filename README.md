@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audgeviolin07&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=audgeviolin07&=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=audgeviolin07)](https://git.io/streak-stats)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hdeo8g4uh5xb3ju89mrtzp8p8)
