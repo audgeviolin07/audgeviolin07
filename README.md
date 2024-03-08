@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 ```markdown
 # Welcome to My GitHub Profile!
 
-![NASA Image](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png)
+![NASA Image]()
+![download](https://github.com/audgeviolin07/audgeviolin07/assets/123830780/73dc94bc-86e1-41ac-8392-9c03b1064bda)
+
 
 ## About Me
 
