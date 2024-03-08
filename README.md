@@ -1,5 +1,5 @@
 ### Hi there 👋
-![download](https://github.com/audgeviolin07/audgeviolin07/assets/123830780/2e0a9ff8-5f1d-4515-a591-bc02929c92d1)
+![download](https://github.com/audgeviolin07/audgeviolin07/assets/123830780/2e0a9ff8-5f1d-4515-a591-bc02929c92d1) NASA SWE Researcher for the LEADS(Laser Aerialized Drone System) Project
 
 <!--
 **audgeviolin07/audgeviolin07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
