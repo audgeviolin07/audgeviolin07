@@ -1,7 +1,8 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://github.com/audgeviolin07/audgeviolin07/assets/123830780/2e0a9ff8-5f1d-4515-a591-bc02929c92d1" alt="Image" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="https://github.com/audgeviolin07/audgeviolin07/assets/123830780/2e0a9ff8-5f1d-4515-a591-bc02929c92d1" alt="Image" style="border-radius: 10px; width: 150px; height: 150px;">
 </p>
+
  NASA SWE Researcher for the LEADS(Laser Aerialized Drone System) Project
 
 <!--
