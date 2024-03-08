@@ -47,8 +47,7 @@ Thank you for stopping by!
 ---
 *Note: Feel free to customize this README according to your preferences and update the project details with your own projects.*
 ```
-
-Feel free to replace placeholders like `[Your Name]`, `link_to_project_1`, `link_to_project_2`, and `link_to_project_3` with your actual details and project links. This template should provide a good starting point for your GitHub README profile.
+Here are some of my github stats!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audgeviolin07&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
