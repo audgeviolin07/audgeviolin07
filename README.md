@@ -25,8 +25,25 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hey there! I'm [Your Name], a passionate developer who loves to explore the realms of technology. I thrive on creating innovative solutions and collaborating on exciting projects that challenge my skills. This GitHub profile serves as a canvas where I showcase my journey through the world of coding.
 
+🌐 About Me:
+Greetings! I'm Audrey, a dynamic and forward-thinking Computer Engineering student with a burning passion for technology and innovation. Currently pursuing my degree at Michigan State University in the Honors College, I am committed to pushing the boundaries of what's possible in the world of computer engineering.
+
+💡 Professional Focus:
+I have a keen eye for software engineering, an insatiable curiosity for the realms of AI and Machine Learning, and a deep commitment to leveraging technology for education and social good.
+. 
+Web Development: Experienced in designing and creating responsive and user-friendly websites using HTML, CSS, JavaScript, and various frameworks like React.js and Next.js. Additionally proficient in 3D aspects using Three.js. 
+
+AI & Machine Learning: Adept at exploring and implementing machine learning algorithms, with hands-on experience in Python and popular libraries like TensorFlow and PyTorch.
+
+🏆 Hackathon Success:
+I take pride in my achievements, having secured victory in 13 hackathons(most recent HackPrinceton, Mhacks). These experiences have honed my ability to work under pressure, think creatively, and collaborate effectively within a team to deliver innovative solutions.
+
+🌍 Passion for Social Impact:
+Beyond code, I am deeply committed to utilizing technology for social good. I believe in the power of education to transform lives and am dedicated to projects that contribute positively to society.
+
+🔗 Let's Connect:
+I am always eager to connect with like-minded individuals, industry professionals, and potential collaborators who share a passion for pushing the boundaries of technology and making a positive impact on the world. Let's connect and explore the endless possibilities at the intersection of technology and innovation!
 ## Projects
 
 ### Project 1: [Project Name 1](link_to_project_1)
