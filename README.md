@@ -50,6 +50,7 @@ Thank you for stopping by!
 *Note: Feel free to customize this README according to your preferences and update the project details with your own projects.*
 ```
 Here are some of my github stats!
+![download](https://github.com/audgeviolin07/audgeviolin07/assets/123830780/2e0a9ff8-5f1d-4515-a591-bc02929c92d1)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audgeviolin07&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
