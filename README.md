@@ -1,4 +1,5 @@
 ### Hi there 👋
+![download](https://github.com/audgeviolin07/audgeviolin07/assets/123830780/2e0a9ff8-5f1d-4515-a591-bc02929c92d1)
 
 <!--
 **audgeviolin07/audgeviolin07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +18,6 @@ Here are some ideas to get you started:
 
 ```markdown
 # Welcome to My GitHub Profile!
-
-![NASA Image](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png)
-
-
 
 ## About Me
 
@@ -50,7 +47,6 @@ Thank you for stopping by!
 *Note: Feel free to customize this README according to your preferences and update the project details with your own projects.*
 ```
 Here are some of my github stats!
-![download](https://github.com/audgeviolin07/audgeviolin07/assets/123830780/2e0a9ff8-5f1d-4515-a591-bc02929c92d1)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audgeviolin07&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
