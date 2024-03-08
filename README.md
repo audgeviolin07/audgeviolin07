@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Certainly! Below is a GitHub README profile template with a NASA picture and nicely formatted sections for projects:
-
 ```markdown
 # Welcome to My GitHub Profile!
 
