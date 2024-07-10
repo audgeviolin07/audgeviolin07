@@ -1,9 +1,7 @@
-### Hi there 👋
+### 18x hackathon winner who loves boba 🧋
 <p align="center">
   <img src="https://github.com/audgeviolin07/audgeviolin07/assets/123830780/2e0a9ff8-5f1d-4515-a591-bc02929c92d1" alt="Image" style="border-radius: 10; width: 150; height: 150px;">
 </p>
-
-**18x hackathon winner who loves boba**
 
 Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) + [Portfolio](https://audrey-chen.my.canva.site/portfolio)
 
