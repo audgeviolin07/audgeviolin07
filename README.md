@@ -4,7 +4,7 @@
 </p>
 
 **18x hackathon winner who loves boba**
-Here are the wins! Devpost: Portfolio: 
+Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) [Portfolio](https://audrey-chen.my.canva.site/portfolio)
 
 18. 🏆 Vechain x BCG x EasyA - due june 3rd 
   -won june 30th, 1st place BCG $4,500 
