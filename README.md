@@ -1,4 +1,4 @@
-### 18x hackathon winner and content creator who loves boba 🧋
+### 18x hackathon winner and content creator (@jia.seed on insta, 38k) who loves boba 🧋
 
 Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) + [Portfolio](https://audrey-chen.my.canva.site/portfolio)
 
