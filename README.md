@@ -2,7 +2,13 @@
 
 Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) + [Portfolio](https://audrey-chen.my.canva.site/portfolio)
 
-18 🏆 Vechain x BCG x EasyA - due june 3rd 
+20 🏆 PennApps @ University of Pennsylvania 
+  -won sept 23rd solo, 3rd place Super Fast AI - Cerebras, swag box
+
+19 🏆 Future of Data Hackathon @ Midwestcon
+  -won sept 6th, 1st place Security - $1,000 
+
+18 🏆 Vechain x BCG x EasyA 
   -won june 30th, 1st place BCG $4,500 
 
 17 🏆 Femhack 2024: all-female weekend hackathon June 1st
