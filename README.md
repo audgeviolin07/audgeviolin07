@@ -2,6 +2,9 @@
 
 Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) + [Portfolio](https://audrey-chen.my.canva.site/portfolio)
 
+21 🏆 Mhacks @ University of Michigan 
+  -won sept 28th solo, Best Use of Midnight
+
 20 🏆 PennApps @ University of Pennsylvania 
   -won sept 23rd solo, 3rd place Super Fast AI - Cerebras, swag box
 
