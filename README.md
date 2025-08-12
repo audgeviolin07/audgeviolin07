@@ -1,9 +1,11 @@
 ### hey why are you stalking my github
 
 
-### 21x hackathon winner and content creator (@jia.seed on insta, 55k) who loves boba 🧋
+### 22x hackathon winner and content creator (@jia.seed on insta, 55k) who loves boba 🧋
 
 Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) + [Portfolio](https://audrey-chen.my.canva.site/portfolio)
+22 🏆 YCombinator Coding Agents Hackathon
+  -won aug 9th, finalist + best use of morph (jetson nano & $500 api)
 
 21 🏆 Mhacks @ University of Michigan 
   -won sept 28th solo, Best Use of Midnight
