@@ -3,7 +3,7 @@
 
 ### 22x hackathon winner and content creator (@jia.seed on insta, 55k) who loves boba 🧋 (I am taiwanese)
 
-Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) + [Portfolio](https://audrey-chen.my.canva.site/portfolio)
+Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) + [Portfolio]((https://www.jia.build/))
 
 
 22 🏆 YCombinator Coding Agents Hackathon
