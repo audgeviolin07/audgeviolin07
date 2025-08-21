@@ -31,7 +31,7 @@ Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-
 15 🏆 HackDavis April 27-28 https://hackdavis.io/ 
   -won april 28th, DEI Hack Fidelity - wireless charger
 
-14 🏆 Anarchy jan 16 2024
+14 🏆 Anarchy (YC23) jan 16 2024
   -won jan 16th, first overall out of 3 teams, $10k compute and $50
 
 13 🏆 Code Green Conference dec 8th 
