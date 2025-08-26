@@ -5,6 +5,9 @@
 
 Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) + [Portfolio](https://www.jia.build/)
 
+23 🏆 YCombinator Dedalus Agents Hackathon
+  -won aug 24th, 🏅1st place daedalus $2000 cash , $500 api, 🏅1st place browser-use $2000 cash, 1 week stay in marina hacker house
+	and an invite to openai hq!
 
 22 🏆 YCombinator Coding Agents Hackathon
   -won aug 9th, finalist + best use of morph (jetson nano & $500 api)
