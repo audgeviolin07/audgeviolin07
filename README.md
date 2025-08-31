@@ -1,4 +1,4 @@
-### hey why are you stalking my github 
+### hey why are u stalking my github 
 
 
 ### 23x hackathon wins uwu (@jia.seed on insta, 71k) who loves boba 🧋 (I am taiwanese)
