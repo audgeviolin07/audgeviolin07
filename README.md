@@ -82,7 +82,6 @@ Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-
 	-Top 3 teams overall
 
 ---
-*Note: Feel free to customize this README according to your preferences and update the project details with your own projects.*
 
 Here are some of my github stats!
 
