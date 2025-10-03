@@ -4,7 +4,7 @@ Co-founder, CEO @ [Sorcerer](https://www.usesorcerer.com/) (context management f
 ### https://www.jia.build 
 <img width="1597" height="936" alt="jia" src="https://github.com/user-attachments/assets/bc1e356d-c382-441a-afef-1c5175499065" />
 
-### hey why are u stalking my github lol 
+### hey why are you stalking my github lol 
 ### 23x hackathon wins (@jia.seed on insta, 71k) who loves boba 🧋 (I'm taiwanese)
 
 Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) + [Portfolio](https://www.jia.build/)
