@@ -1,5 +1,5 @@
 
-Co-founder, CEO @ [Sorcerer](https://www.usesorcerer.com/) (just pivoted)
+Co-founder @ [Sorcerer](https://www.usesorcerer.com/) (just pivoted)
 
 ### https://www.jia.build 
 <img width="1597" height="936" alt="jia" src="https://github.com/user-attachments/assets/bc1e356d-c382-441a-afef-1c5175499065" />
