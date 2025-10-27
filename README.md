@@ -10,7 +10,7 @@ Co-founder @ [Sorcerer](https://www.usesorcerer.com/) (pivoted, gtm now)
 Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) + [Portfolio](https://www.jia.build/)
 
 23 🏆 YCombinator Dedalus Agents Hackathon
-  -won aug 24th, 🏅1st place daedalus $2000 cash , $500 api, 🏅1st place browser-use $2000 cash, 1 week stay in marina hacker house
+  -won aug 24th, 🏅1st place daedalus $2000 cash, $500 api, 🏅1st place browser-use $2000 cash, 1 week stay in marina hacker house
 	and invite to openai hq!
 
 22 🏆 YCombinator Coding Agents Hackathon
