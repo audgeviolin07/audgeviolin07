@@ -1,4 +1,4 @@
-co-founder @ **[sorcerer](https://www.usesorcerer.com/)** (pivoted, gtm now)
+co-founder @ **[sorcerer](https://www.usesorcerer.com/)** (pre-seed)
 
 also monkeying on asillios-limiter, an open source typescript library for controlling and monitoring api usage in apps that use large language models
 
