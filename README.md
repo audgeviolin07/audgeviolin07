@@ -1,5 +1,11 @@
+Co-founder @ **[Sorcerer](https://www.usesorcerer.com/)** (pivoted, gtm now)
 
-Co-founder @ [Sorcerer](https://www.usesorcerer.com/) (pivoted, gtm now)
+also made asillios-limiter, an open source typescript library for controlling and monitoring api usage in apps that use large language models
+
+use it today with
+```bash
+npm install asillios-limiter
+```
 
 ### https://www.jia.build 
 <img width="1597" height="936" alt="jia" src="https://github.com/user-attachments/assets/bc1e356d-c382-441a-afef-1c5175499065" />
