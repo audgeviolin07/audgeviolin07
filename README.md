@@ -8,7 +8,7 @@ npm install asillios-limiter
 ```
 
 ### https://www.jia.build 
-<img width="1597" height="936" alt="jia" src="https://github.com/user-attachments/assets/bc1e356d-c382-441a-afef-1c5175499065" />
+<img width="824" height="670" alt="jiame" src="https://github.com/user-attachments/assets/4db9641f-a066-4e92-83ec-eccbbaebeb96" />
 
 ### hey why are you stalking my github lol 
 ### 23x hackathon wins (@jia.seed on insta, 71k) who loves boba 🧋 (I'm taiwanese)
