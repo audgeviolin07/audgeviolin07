@@ -1,6 +1,6 @@
 co-founder @ **[sorcerer](https://www.usesorcerer.com/)** (pre-seed)
 
-also building on asillios-limiter https://www.asillios.com/, an open source typescript library for controlling and monitoring api usage in apps that use large language models
+also building on asillios-limiter @ [asillios.com](https://www.asillios.com/), an open source typescript library for controlling and monitoring api usage in apps that use large language models
 
 use it today with
 ```bash
