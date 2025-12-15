@@ -7,8 +7,7 @@ use it today with
 npm install asillios-limiter
 ```
 
-### https://www.jia.build 
-<img width="1724" height="907" alt="newfo" src="https://github.com/user-attachments/assets/ff28591c-495f-416b-b839-5ee7c1fd6e6c" />
+### https://www.jia.build is my personal site
 
 
 ### hey why are you stalking my github lol 
