@@ -1,96 +1,54 @@
+# hey, i'm jia 👋
+
+[![GitHub followers](https://img.shields.io/github/followers/audgeviolin07?style=social)](https://github.com/audgeviolin07)
+[![Instagram](https://img.shields.io/badge/Instagram-71k-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jia.seed)
+[![Website](https://img.shields.io/badge/jia.build-portfolio-black)](https://www.jia.build)
+
 co-founder @ **[sorcerer](https://www.usesorcerer.com/)** (pre-seed)
 
-also building on asillios-limiter @ [asillios.com](https://www.asillios.com/) (52⭐, star on github if you see this), an open source typescript library for controlling and monitoring api usage in apps that use large language models
+also building **asillios-limiter** @ [asillios.com](https://www.asillios.com/) — an open source typescript library for controlling and monitoring LLM api usage
 
-use it today with
+[![npm version](https://img.shields.io/npm/v/asillios-limiter)](https://www.npmjs.com/package/asillios-limiter)
+[![GitHub stars](https://img.shields.io/github/stars/audgeviolin07/asillios-limiter?style=social)](https://github.com/audgeviolin07/asillios-limiter)
 ```bash
 npm install asillios-limiter
 ```
 
-### https://www.jia.build is my personal site
+---
 
+## 🏆 23x hackathon wins
 
-### hey why are you stalking my github lol 
-### 23x hackathon wins (@jia.seed on insta, 71k) who loves boba 🧋 (I'm taiwanese)
+taiwanese girl who loves boba 🧋 | [devpost](https://devpost.com/audgeviolin07) | [portfolio](https://www.jia.build/)
 
-Here are the wins! [Devpost](https://devpost.com/audgeviolin07?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) + [Portfolio](https://www.jia.build/)
-
-23 🏆 YCombinator Dedalus Agents Hackathon
-  -won aug 24th, 🏅1st place daedalus $2000 cash, $500 api, 🏅1st place browser-use $2000 cash, 1 week stay in marina hacker house
-	and invite to openai hq!
-
-22 🏆 YCombinator Coding Agents Hackathon
-  -won aug 9th, finalist + best use of morph (jetson nano & $500 api)
-
-21 🏆 Mhacks @ University of Michigan 
-  -won sept 28th solo, Best Use of Midnight
-
-20 🏆 PennApps @ University of Pennsylvania 
-  -won sept 23rd solo, 3rd place Super Fast AI - Cerebras, swag box
-
-19 🏆 Future of Data Hackathon @ Midwestcon
-  -won sept 6th, 1st place Security - $1,000 
-
-18 🏆 Vechain x BCG x EasyA 
-  -won june 30th, 1st place BCG $4,500 
-
-17 🏆 Femhack 2024: all-female weekend hackathon June 1st
-  -won june 2nd, 2nd place overall $250
-
-16 🏆 Hawkhacks May 17th-19th 
-  -won may 19th, 1st Place NEAR, $3,000
-  -852+ competitors
-
-15 🏆 HackDavis April 27-28 https://hackdavis.io/ 
-  -won april 28th, DEI Hack Fidelity - wireless charger
-
-14 🏆 Anarchy/DataSuite (YC23) jan 16 2024
-  -won jan 16th, first overall out of 3 teams, $10k compute and $50
-
-13 🏆 Code Green Conference dec 8th 
-  -won dec 8th, first overall out of 8 teams
-
-12 🏆 MHacks nov 18-19
-  -won nov 19th best use of streamlit
-
-11 🏆 HackPrinceton nov 10-12
-  -Won nov12th - most innovative use of verbwire api
-
-10 🏆 HackRTC sept 30- oct 1st 2023
-	-Won oct 1st - first place overall $600
-
-9 🏆 HackIowa sept  23-24 2023 (“hologlass”) 
-  -Won september 24th - best artificial intelligence/machine learning hack $50 + best social media google package
-
-8 🏆 Shellhacks sept 15-17 2023 (“Incluscript”) 
-  -won assurant honorable mention
-
-7 🏆 Hack your portfolio Online June 2nd to June 4th  
-  -Won June 4th - best beginner hack - jenga (75% beginners team)
-
-6 🏆 Tech Together New York May 27-29th New York with Aawarty - May 24th fly out
-  -Won May 29th - Best Use of Microsoft Cloud, Microsoft Passport Challenge - hoodie
-  -Team of four
-
-5 🏆 SB hax in california May 13th,  (“GitPT”)
-  -Won May 14th - 1st Place Educational hack - Mini Projector
-  -7 winning event prizes, 400+ hackers
-
-4 🏆 CitrusHack April 29-30 (“MonkeySign”)
-  -Won April 30th - Best Tracks Hack "New Frontiers" 8 winning track teams won lego set but i switched it to headphones
-	-600+ hackers with 8 winning track teams
-
-3 🏆 Spartan Code White - April 21st (“Object Detection”)  Issued by Spartan Hackers · Apr 2023
-  -Won 3rd Prize 4/21/23 $75
-
-2 🏆 WECE Hacks April 8-9 (“Flock”) - University of Illinois Urbana Champaign
-	-Overall Win 4/9/23 - First Place Software Hack $100 (hydro, $50 kungfu tea cred + lego raffle)
-
-1 🏆 BlossomHack (“Home Hero”) - Ohio University
-	- Won 4/2/23 - First Place Hardware Track $200 (+bonsai legos)
-	-Top 3 teams overall
+| # | hackathon | prize |
+|---|-----------|-------|
+| 23 | **YC Dedalus Agents** (Aug '24) | 🥇 1st Daedalus ($2k) + 🥇 1st Browser-Use ($2k) + Marina hacker house + OpenAI HQ invite |
+| 22 | **YC Coding Agents** (Aug '24) | Finalist + Best Use of Morph (Jetson Nano + $500 API) |
+| 21 | **MHacks @ Michigan** (Sep '24) | Best Use of Midnight (solo) |
+| 20 | **PennApps @ UPenn** (Sep '24) | 3rd Place Cerebras (solo) |
+| 19 | **Future of Data @ Midwestcon** (Sep '24) | 🥇 1st Security ($1k) |
+| 18 | **Vechain x BCG x EasyA** (Jun '24) | 🥇 1st BCG ($4.5k) |
+| 17 | **Femhack** (Jun '24) | 🥈 2nd Overall ($250) |
+| 16 | **Hawkhacks** (May '24) | 🥇 1st NEAR ($3k) — 852+ competitors |
+| 15 | **HackDavis** (Apr '24) | DEI Hack Fidelity |
+| 14 | **Anarchy/DataSuite (YC23)** (Jan '24) | 🥇 1st Overall ($10k compute) |
+| 13 | **Code Green Conference** (Dec '23) | 🥇 1st Overall |
+| 12 | **MHacks** (Nov '23) | Best Use of Streamlit |
+| 11 | **HackPrinceton** (Nov '23) | Most Innovative Use of Verbwire |
+| 10 | **HackRTC** (Oct '23) | 🥇 1st Overall ($600) |
+| 9 | **HackIowa** (Sep '23) | Best AI/ML Hack + Best Social Media |
+| 8 | **ShellHacks** (Sep '23) | Assurant Honorable Mention |
+| 7 | **Hack Your Portfolio** (Jun '23) | Best Beginner Hack |
+| 6 | **TechTogether NYC** (May '23) | Best Use of Microsoft Cloud |
+| 5 | **SB Hax** (May '23) | 🥇 1st Educational Hack — 400+ hackers |
+| 4 | **CitrusHack** (Apr '23) | Best "New Frontiers" Track — 600+ hackers |
+| 3 | **Spartan Code White** (Apr '23) | 🥉 3rd Prize ($75) |
+| 2 | **WECE Hacks @ UIUC** (Apr '23) | 🥇 1st Software Hack ($100) |
+| 1 | **BlossomHack @ Ohio U** (Apr '23) | 🥇 1st Hardware Track ($200) |
 
 ---
+
+why are you stalking my github lol
 
 Here are some of my github stats!
 
