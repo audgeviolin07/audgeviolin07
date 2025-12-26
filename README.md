@@ -29,7 +29,7 @@ prev sprint.dev (20k users in 5 months)
 ---
 ---
 
-## 🏆 23x hackathon wins
+## 🏆 23x hackathon wins @ princeton, upenn, yc etc
 
 taiwanese girl who loves boba 🧋 | [devpost](https://devpost.com/audgeviolin07) | [portfolio](https://www.jia.build/)
 
