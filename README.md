@@ -1,6 +1,5 @@
 # hey, i'm jia 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/audgeviolin07?style=social)](https://github.com/audgeviolin07)
 [![Instagram](https://img.shields.io/badge/Instagram-71k-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jia.seed)
 [![Website](https://img.shields.io/badge/jia.build-portfolio-black)](https://www.jia.build)
 
