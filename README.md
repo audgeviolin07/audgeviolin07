@@ -4,6 +4,7 @@
 [![Website](https://img.shields.io/badge/jia.build-portfolio-black)](https://www.jia.build)
 
 co-founder @ **[sorcerer](https://www.usesorcerer.com/)** (pre-seed)
+prev sprint.dev (20k users in 5 months)
 
 also building **asillios-limiter** @ [asillios.com](https://www.asillios.com/) â€” an open source typescript library for controlling and monitoring LLM api usage
 
@@ -12,7 +13,6 @@ also building **asillios-limiter** @ [asillios.com](https://www.asillios.com/) â
 ```bash
 npm install asillios-limiter
 ```
-prev sprint.dev (20k users in 5 months)
 ---
 
 <p align="center">
