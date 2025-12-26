@@ -5,8 +5,6 @@
 
 co-founder @ **[sorcerer](https://www.usesorcerer.com/)** (pre-seed)
 
-prev sprint.dev (20k users in 5 months)
-
 also building **asillios-limiter** @ [asillios.com](https://www.asillios.com/) â€” an open source typescript library for controlling and monitoring LLM api usage
 
 [![npm version](https://img.shields.io/npm/v/asillios-limiter)](https://www.npmjs.com/package/asillios-limiter)
@@ -14,6 +12,8 @@ also building **asillios-limiter** @ [asillios.com](https://www.asillios.com/) â
 ```bash
 npm install asillios-limiter
 ```
+prev sprint.dev (20k users in 5 months)
+
 ---
 
 <p align="center">
