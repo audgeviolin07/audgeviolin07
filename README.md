@@ -22,7 +22,7 @@ npm install asillios-limiter
 </p>
 
 <p align="center">
-  <em>turned down infra SWE offers from both to go full-time founder</em>
+  <em>turned down infra SWE offers from both to go full-time on own products</em>
 </p>
 
 ---
