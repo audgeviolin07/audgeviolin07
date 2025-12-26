@@ -1,14 +1,14 @@
 # hey, i'm jia 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-71k-E4405F?logo=instagram&logoColor=white)](https://instagram.com/jia.seed)
-[![Website](https://img.shields.io/badge/jia.build-portfolio-black)](https://www.jia.build)
+[![Instagram](https://img.shields.io/badge/Instagram-71k-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jia.seed)
+[![Website](https://img.shields.io/badge/jia.build-portfolio-black?style=for-the-badge)](https://www.jia.build)
 
 co-founder @ **[sorcerer](https://www.usesorcerer.com/)** (pre-seed)
 
 also building **asillios-limiter** @ [asillios.com](https://www.asillios.com/) — an open source typescript library for controlling and monitoring LLM api usage
 
-[![npm version](https://img.shields.io/npm/v/asillios-limiter)](https://www.npmjs.com/package/asillios-limiter)
-[![GitHub stars](https://img.shields.io/github/stars/audgeviolin07/asillios-limiter?style=social)](https://github.com/audgeviolin07/asillios-limiter)
+[![npm version](https://img.shields.io/npm/v/asillios-limiter?style=for-the-badge)](https://www.npmjs.com/package/asillios-limiter)
+[![GitHub stars](https://img.shields.io/github/stars/audgeviolin07/asillios-limiter?style=for-the-badge)](https://github.com/audgeviolin07/asillios-limiter)
 ```bash
 npm install asillios-limiter
 ```
