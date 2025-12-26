@@ -13,7 +13,22 @@ also building **asillios-limiter** @ [asillios.com](https://www.asillios.com/) â
 ```bash
 npm install asillios-limiter
 ```
+---
 
+## dropped offers to build
+
+<p align="center">
+  <img width="278" height="162" alt="disney" src="https://github.com/user-attachments/assets/2d804c36-e8c6-412b-931b-200dac2506c4" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="224" height="141" alt="intuit" src="https://github.com/user-attachments/assets/adca7b78-62f6-4609-bbab-752f0f88fcdf" />
+g" width="200" />
+</p>
+
+<p align="center">
+  <em>turned down infra SWE offers from both to go full-time founder</em>
+</p>
+
+---
 ---
 
 ## ğŸ† 23x hackathon wins
