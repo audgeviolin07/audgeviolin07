@@ -15,8 +15,6 @@ npm install asillios-limiter
 ```
 ---
 
-## dropped offers to build
-
 <p align="center">
   <img width="248" height="142" alt="disney" src="https://github.com/user-attachments/assets/2d804c36-e8c6-412b-931b-200dac2506c4" />
   &nbsp;&nbsp;&nbsp;&nbsp;
