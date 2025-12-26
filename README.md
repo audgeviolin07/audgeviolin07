@@ -6,6 +6,7 @@
 co-founder @ **[sorcerer](https://www.usesorcerer.com/)** (pre-seed)
 
 also building **asillios-limiter** @ [asillios.com](https://www.asillios.com/) — an open source typescript library for controlling and monitoring LLM api usage
+and [full breakdown of backend dev (color coded)](https://tabby-andesaurus-3a2.notion.site/backend-web-dev-notes-3d5d0573a2a84a6db13e4beade195e71?pvs=74)
 
 [![npm version](https://img.shields.io/npm/v/asillios-limiter)](https://www.npmjs.com/package/asillios-limiter)
 [![GitHub stars](https://img.shields.io/github/stars/audgeviolin07/asillios-limiter?style=social)](https://github.com/audgeviolin07/asillios-limiter)
