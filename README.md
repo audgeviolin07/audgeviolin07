@@ -19,9 +19,9 @@ prev sprint.dev (20k users in 5 months)
 ---
 
 <p align="center">
-  <img width="248" height="142" alt="disney" src="https://github.com/user-attachments/assets/2d804c36-e8c6-412b-931b-200dac2506c4" />
+  <img width="198" height="114" alt="disney" src="https://github.com/user-attachments/assets/2d804c36-e8c6-412b-931b-200dac2506c4" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="224" height="141" alt="intuit" src="https://github.com/user-attachments/assets/adca7b78-62f6-4609-bbab-752f0f88fcdf" />
+  <img width="179" height="113" alt="intuit" src="https://github.com/user-attachments/assets/adca7b78-62f6-4609-bbab-752f0f88fcdf" />
 </p>
 
 <p align="center">
