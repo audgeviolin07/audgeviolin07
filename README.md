@@ -1,4 +1,4 @@
-# hey, i'm jia! 👋
+# hey, i'm jia! 👋😎
 
 [![Instagram](https://img.shields.io/badge/Instagram-71k-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jia.seed)
 [![Website](https://img.shields.io/badge/jia.build-portfolio-black?style=for-the-badge)](https://www.jia.build)
