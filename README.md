@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-71k-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jia.seed)
 [![Website](https://img.shields.io/badge/jia.build-portfolio-black?style=for-the-badge)](https://www.jia.build)
 
-co-founder @ **[sorcerer](https://www.usesorcerer.com/)** (pre-seed)
+co-founder @ **[jam](https://www.spreadjam.com/)** (pre-seed)
 
 hacking on **asillios-limiter** @ [asillios.com](https://www.asillios.com/) an open source typescript library for rate limiting 
 
